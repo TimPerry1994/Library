@@ -31,7 +31,7 @@ public class Main {
 		//this is done at the end of the while loop
 		int done = 1;
 		while(done==1){		
-			
+			suck a dick
 			System.out.println("What would you like to do?");
 			System.out.println("1: Register a new person");
 			System.out.println("2: Update a current registered person's name");
