@@ -1,0 +1,6 @@
+language: java
+jdk:
+ - oraclejdk8
+ - oraclejdk7
+
+script: (echo "10", echo "2") | java LibraryProject/bin/Main
