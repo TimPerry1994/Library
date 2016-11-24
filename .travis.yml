@@ -3,4 +3,4 @@ jdk:
  - oraclejdk8
  - oraclejdk7
 
-script: cd LibraryProject/bin && (echo "10", echo "2") | java Main
+script: cd LibraryProject/bin && (echo "10"; echo "2") | java Main
